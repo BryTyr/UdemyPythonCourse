@@ -1,0 +1,5 @@
+Shopping Center,52.798478, -6.146480,Retail
+Costa Coffee,52.799023, -6.147821,Retail
+Arklow golf club,52.790212, -6.149471,Sport
+Train Station, 52.794058, -6.159816,Transport
+Football Club, 52.798094, -6.170632,Sport
